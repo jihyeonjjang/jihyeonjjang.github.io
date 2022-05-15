@@ -6,13 +6,14 @@ category: sample
 ---
 
 ## ✔️오늘의 할 일
-- 컴퓨터 구조 수업 복습
-- 안드로이드 파일 생성
+- 안드로이드 스튜디오 초기 설정
+- 안드로이드 대략적인 파일 구상
 - XCode 환경구축
 
 ***
 
 ## ✔️오늘의 한 일
-- 컴퓨터 구조 수업 복습
-- 안드로이드 파일 생성
-- XCode 환경구축
+- 안드로이드 스튜디오 초기 설정
+  - <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> [[안드로이드] 코틀린으로 하는 안드로이드 앱 프로그래밍 -1-](https://velog.io/@jihyeon9975/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1-gze6v67p)
+- 안드로이드 대략적인 파일 구상
+  - <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> [[SONSU] 안드로이드 앱 개발 진행 - 컴포넌트 구상](https://velog.io/@jihyeon9975/SONSU-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%A7%84%ED%96%89-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%EC%83%81)
