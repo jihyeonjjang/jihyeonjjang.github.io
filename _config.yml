@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Jang JiHyeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **cool** developer."
+  bio              : "I am a **cool** developer."
   location         : "South Korea"
   email            :
   links:
